@@ -1,0 +1,9 @@
+export { default as NavHeader } from './NavHeader';
+export { default as Jumbotron } from './Jumbotron';
+export { default as Features } from './Features';
+export { default as Testimonies } from './Testimonies';
+export { default as Portfolio } from './Portfolio';
+export { default as Collaborate } from './Collaborate';
+export { default as Contact } from './Contact';
+export { default as Cta } from './Cta';
+export { default as Footer } from './Footer';
